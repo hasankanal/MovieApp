@@ -1,0 +1,213 @@
+{
+  "project_info": {
+    "project_number": "44522158353",
+    "project_id": "myfavouritefilms-cd0de",
+    "storage_bucket": "myfavouritefilms-cd0de.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:44522158353:android:bfc4cdc6812ffc031d74b0",
+        "android_client_info": {
+          "package_name": "com.hasankanal.favouritefilms"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "44522158353-aj9e2eqrt174rpbdvad8416r8l16ljau.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDr_L0oPSK1MSGuKFztsSJGpLZCwhBMLAY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "44522158353-aj9e2eqrt174rpbdvad8416r8l16ljau.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:44522158353:android:089120e39ca783211d74b0",
+        "android_client_info": {
+          "package_name": "com.hasankanal.kotlinfavouritefilms"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "44522158353-aj9e2eqrt174rpbdvad8416r8l16ljau.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDr_L0oPSK1MSGuKFztsSJGpLZCwhBMLAY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "44522158353-aj9e2eqrt174rpbdvad8416r8l16ljau.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:44522158353:android:ec73fbe5fbbda6241d74b0",
+        "android_client_info": {
+          "package_name": "com.hasankanal.kotlinfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "44522158353-aj9e2eqrt174rpbdvad8416r8l16ljau.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDr_L0oPSK1MSGuKFztsSJGpLZCwhBMLAY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "44522158353-aj9e2eqrt174rpbdvad8416r8l16ljau.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:44522158353:android:46eef2185daab94d1d74b0",
+        "android_client_info": {
+          "package_name": "com.hasankanal.kotlinfirebasetry"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "44522158353-aj9e2eqrt174rpbdvad8416r8l16ljau.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDr_L0oPSK1MSGuKFztsSJGpLZCwhBMLAY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "44522158353-aj9e2eqrt174rpbdvad8416r8l16ljau.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:44522158353:android:f54a4c8bcd35c27c1d74b0",
+        "android_client_info": {
+          "package_name": "com.hasankanal.kotlinmovieapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "44522158353-aj9e2eqrt174rpbdvad8416r8l16ljau.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDr_L0oPSK1MSGuKFztsSJGpLZCwhBMLAY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "44522158353-aj9e2eqrt174rpbdvad8416r8l16ljau.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:44522158353:android:44b6e6188f2fbdb41d74b0",
+        "android_client_info": {
+          "package_name": "com.hasankanal.myfavouritefilms"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "44522158353-aj9e2eqrt174rpbdvad8416r8l16ljau.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDr_L0oPSK1MSGuKFztsSJGpLZCwhBMLAY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "44522158353-aj9e2eqrt174rpbdvad8416r8l16ljau.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:44522158353:android:48f4d3368e38df051d74b0",
+        "android_client_info": {
+          "package_name": "com.hasankanal.tmdbtry"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "44522158353-aj9e2eqrt174rpbdvad8416r8l16ljau.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDr_L0oPSK1MSGuKFztsSJGpLZCwhBMLAY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "44522158353-aj9e2eqrt174rpbdvad8416r8l16ljau.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

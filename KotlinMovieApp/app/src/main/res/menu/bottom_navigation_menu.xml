@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+
+    <item android:id="@+id/homeFragment"
+        android:title="Home"
+        android:icon="@drawable/ic_home"
+        app:showAsAction="always"/>
+
+    <item android:id="@+id/popularFragment"
+        android:title="Popular"
+        android:icon="@mipmap/ic_launcher"
+        app:showAsAction="always"/>
+
+    <item android:id="@+id/topRatedFragment"
+        android:title="Top Rated"
+        android:icon="@drawable/ic_toprated"
+        app:showAsAction="always"/>
+
+    <item android:id="@+id/upcomingFragment"
+        android:title="Upcoming"
+        android:icon="@mipmap/ic_launcher_round"
+        app:showAsAction="always"/>
+
+    <item android:id="@+id/favoriteFragment"
+        android:title="Favorites"
+        android:icon="@drawable/ic_favorite"
+        app:showAsAction="always"/>
+
+</menu>

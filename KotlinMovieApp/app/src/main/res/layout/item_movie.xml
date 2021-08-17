@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <data>
+        <variable
+            name="movie"
+            type="com.hasankanal.kotlinmovieapp.model.movie.MovieResult" />
+    </data>
+
+
+    <androidx.cardview.widget.CardView
+        android:id="@+id/crdMovie"
+        android:layout_width="128dp"
+        android:layout_height="128dp"
+        app:cardCornerRadius="4dp"
+        app:cardBackgroundColor="@color/background">
+
+        <ImageView
+            android:id="@+id/imgMovieItemPoster"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="?attr/selectableItemBackgroundBorderless"
+            android:imageUrl="@{movie.backdrop_path}"
+            android:layout_margin="5dp"
+            android:scaleType="centerCrop" />
+
+        <TextView
+            android:id="@+id/tvMovieItemTitle"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="8dp"
+            android:singleLine="true"
+            android:text="@{movie.title}"
+            android:textColor="#FFF"
+            android:textSize="12sp"
+            android:textStyle="bold" />
+
+    </androidx.cardview.widget.CardView>
+
+</layout>
